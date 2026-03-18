@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  PERFORMED 7 TESTED IN <a href="https://itsecsummit.events/" target="_blank">ITSEC</a> 2025 EVENT JAKARTA
+  PERFORMED & TESTED IN <a href="https://itsecsummit.events/" target="_blank">ITSEC</a> 2025 EVENT JAKARTA
 </p>
 
 <p align="center">
