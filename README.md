@@ -25,23 +25,23 @@
 
 ### WEB APP SCANNER
 
-* [ ] Act as Human as Possible
-* [ ] Page URL (Mapper/Follower)
-* [ ] External (Depedent/URL) Mapper
-* [ ] Web Application Source Mapper
-* [ ] Web API Buster
-* [ ] Technology Detection
-* [ ] Web Admin Possible Finder
-* [ ] Output Mind Map Result
-* [ ] Output JSON Result
-* [ ] NMAP
-* [ ] LRVL Buster
-* [ ] RCT Scanner
-* [ ] JSP Scanner
-* [ ] ASP Scanner
+* [x] Act as Human as Possible
+* [x] Page URL (Mapper/Follower)
+* [x] External (Depedent/URL) Mapper
+* [x] Web Application Source Mapper
+* [x] Web API Buster
+* [x] Technology Detection
+* [x] Web Admin Possible Finder
+* [x] Output Mind Map Result
+* [x] Output JSON Result
+* [x] NMAP
+* [x] LRVL Buster
+* [x] RCT Scanner
+* [x] JSP Scanner
+* [x] ASP Scanner
 
 ### LOCAL NETWORK SCANNER
 
-* [ ] ARP Spoofing
+* [x] ARP Spoofing
 * [ ] Local Device Burst Fire
 ---
