@@ -1,5 +1,5 @@
 <p align="center">
-<img style="height:100%; width: 512px;" src="https://github.com/7zuu/CERBERUS-OPSCT/blob/main/src/logo.jpg"/></br>
+<img style="height:100%; width: 512px;" src="https://github.com/xx10n/CERBERUS-OPSCT/blob/main/src/logo.jpg"/></br>
 <span style="font-size:32px;">C E R B E R U S</span>
 </p>
 
