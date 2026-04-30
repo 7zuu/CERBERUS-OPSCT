@@ -2,7 +2,7 @@
 name = "cerberus-opsct"
 version = "0.1.0"
 authors = ["xx10n <xiao.bytedance@proton.me>"]
-edition = "2026"
+edition = "2021"
 description = "Active Aggressive CLI Tools for Search Vulnerability"
 repository = "https://github.com/xx10n/CERBERUS-OPSCT"
 license = "MIT"
