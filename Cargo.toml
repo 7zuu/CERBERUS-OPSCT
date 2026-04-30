@@ -1,6 +1,6 @@
 [package]
 name = "cerberus-opsct"
-version = "0.1.5"
+version = "0.1.6"
 authors = ["xx10n <xiao.bytedance@proton.me>"]
 edition = "2021"
 description = "Active Aggressive CLI Tools for Search Vulnerability"
